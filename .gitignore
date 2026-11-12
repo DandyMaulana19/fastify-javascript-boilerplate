@@ -1,0 +1,12 @@
+/node_modules/
+/dist/
+/drizzle/
+/src/tests
+.logs
+*.zip
+
+.env
+.DS_Store
+.vscode/
+.env
+*.txt
