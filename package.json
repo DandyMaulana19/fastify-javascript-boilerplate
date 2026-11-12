@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "@fastify/cors": "^11.4.1",
     "@fastify/formbody": "^9.0.1",
